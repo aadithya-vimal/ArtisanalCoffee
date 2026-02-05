@@ -1,6 +1,7 @@
 'use client';
 
 import { useState, MouseEvent, useRef } from 'react';
+import Image from 'next/image';
 
 interface Product3DImageProps {
     src: string;
@@ -41,10 +42,11 @@ export function Product3DImage({ src, alt, className = '' }: Product3DImageProps
                 transformStyle: 'preserve-3d',
             }}
         >
-            <img
+            <Image
                 src={src}
                 alt={alt}
-                className="w-full h-full object-cover rounded-2xl"
+                fill
+                className="object-cover rounded-2xl"
                 style={{
                     transform: 'translateZ(50px)',
                     boxShadow: '0 20px 60px rgba(0, 0, 0, 0.5)',

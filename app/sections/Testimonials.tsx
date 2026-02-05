@@ -101,7 +101,7 @@ export function Testimonials() {
                         The <span className="text-transparent bg-clip-text bg-gradient-to-r from-gold-primary via-amber-400 to-gold-primary animate-gradient-shift">Connoisseurs</span>
                     </h2>
                     <p className="text-text-secondary text-lg mt-4 max-w-2xl mx-auto">
-                        Trusted by industry leaders and discerning palates worldwide. Here's what our community has to say.
+                        Trusted by industry leaders and discerning palates worldwide. Here&apos;s what our community has to say.
                     </p>
                 </div>
 
