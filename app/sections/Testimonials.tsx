@@ -94,9 +94,9 @@ function TestimonialCard({ testimonial, index }: { testimonial: typeof testimoni
 
 export function Testimonials() {
     return (
-        <section id="stories" className="py-20 md:py-32 relative">
+        <section id="stories" className="py-12 md:py-32 relative">
             <div className="container mx-auto px-4 sm:px-6 md:px-12 lg:px-20">
-                <div className="mb-12 md:mb-16 text-center">
+                <div className="mb-10 md:mb-16 text-center">
                     <h2 className="font-display text-3xl md:text-section font-bold tracking-section">
                         The <span className="text-transparent bg-clip-text bg-gradient-to-r from-gold-primary via-amber-400 to-gold-primary animate-gradient-shift">Connoisseurs</span>
                     </h2>

@@ -42,10 +42,10 @@ export function RoastingExperience() {
     };
 
     return (
-        <section id="experience" className="py-20 md:py-32 relative overflow-hidden">
+        <section id="experience" className="py-12 md:py-32 relative overflow-hidden">
             <div className="container mx-auto px-4 sm:px-6 md:px-12 lg:px-20">
-                <div className="text-center mb-12 md:mb-16">
-                    <h2 className="font-display text-4xl md:text-section font-bold tracking-section mb-6">
+                <div className="text-center mb-10 md:mb-16">
+                    <h2 className="font-display text-3xl md:text-section font-bold tracking-section mb-4 md:mb-6">
                         <span className="text-transparent bg-clip-text bg-gradient-to-r from-gold-primary via-amber-400 to-gold-primary animate-gradient-shift">Perfect Roast</span>
                     </h2>
                     <p className="text-text-secondary text-lg max-w-3xl mx-auto leading-relaxed">

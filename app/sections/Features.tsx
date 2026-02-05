@@ -93,10 +93,10 @@ function FeatureCard({ feature, index }: { feature: typeof features[0]; index: n
 
 export function Features() {
     return (
-        <section id="process" className="py-20 md:py-32 relative">
+        <section id="process" className="py-12 md:py-32 relative">
             <div className="container mx-auto px-4 sm:px-6 md:px-12 lg:px-20">
-                <div className="text-center mb-16 md:mb-20">
-                    <h2 className="font-display text-4xl md:text-section font-bold tracking-section mb-6">
+                <div className="text-center mb-10 md:mb-20">
+                    <h2 className="font-display text-3xl md:text-section font-bold tracking-section mb-4 md:mb-6">
                         <span className="text-transparent bg-clip-text bg-gradient-to-r from-gold-primary via-amber-400 to-gold-primary animate-gradient-shift">Our Process</span>
                     </h2>
                     <p className="text-text-secondary text-lg max-w-3xl mx-auto leading-relaxed">

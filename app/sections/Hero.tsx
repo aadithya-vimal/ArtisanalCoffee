@@ -56,7 +56,7 @@ export function Hero() {
                         initial="hidden"
                         animate="visible"
                         variants={containerVariants}
-                        className="font-display font-black text-[18vw] sm:text-[16vw] md:text-[14vw] leading-[0.85] tracking-tighter text-transparent bg-clip-text bg-gradient-to-b from-white to-white/10 select-none pb-10 w-full text-center"
+                        className="font-display font-black text-[11.5vw] sm:text-[13vw] md:text-[14vw] leading-[0.85] tracking-tighter text-transparent bg-clip-text bg-gradient-to-b from-white to-white/10 select-none pb-10 w-full text-center whitespace-nowrap"
                     >
                         <span className="block mb-2 md:mb-4">
                             {Array.from("ARTISANAL").map((char, i) => (

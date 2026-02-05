@@ -12,7 +12,7 @@ export function Footer() {
     };
 
     return (
-        <footer className="relative py-16 md:py-20 bg-bg-secondary mt-20 z-10">
+        <footer className="relative py-12 md:py-20 bg-bg-secondary mt-12 md:mt-20 z-10">
             <div className="container mx-auto px-4 sm:px-6 md:px-12 lg:px-20 w-full">
                 <div className="grid grid-cols-1 md:grid-cols-12 gap-12 mb-12">
                     {/* Brand */}
