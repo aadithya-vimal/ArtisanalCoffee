@@ -2,6 +2,7 @@
 
 A premium, visually stunning website showcasing artisanal coffee and Belgian chocolate products. Built with Next.js 14, featuring advanced animations, interactive 3D effects, and Apple-inspired glassmorphism design.
 
+![Live Demo](https://img.shields.io/badge/Live_Demo-artisanalcoffee.pages.dev-orange?style=for-the-badge&logo=cloudflare&logoColor=white&link=https://artisanalcoffee.pages.dev)
 ![Next.js](https://img.shields.io/badge/Next.js-14-black?style=flat-square&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=flat-square&logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-38bdf8?style=flat-square&logo=tailwind-css)
